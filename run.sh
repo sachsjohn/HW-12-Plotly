@@ -1,1 +1,1 @@
-python=3.6.2
+FLASK_APP=app.py flask run
